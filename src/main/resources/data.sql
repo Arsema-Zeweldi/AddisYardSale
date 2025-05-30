@@ -1,2 +1,0 @@
-INSERT INTO products (category_id, color, description, location, name, posted_date, price, status, user_id, image1) VALUES
-                    (4, 'Black', 'Trek', 'Mexico', 'Vintage Record Player', '1-25-2025', 1350,  'available', 4,  'https://bikesonline.com.au/cdn/shop/files/2024_PREMIER_24_XC_DISC-676614.jpg?v=1721690328&width=1125');
